@@ -1,0 +1,33 @@
+{
+  "product": [
+    {
+      "name": "Indomie goreng rendang",
+      "desc": "Makanan instan terenak di dunia",
+      "stock": 4,
+      "price": 3900,
+      "id": 1
+    },
+    {
+      "name": "Mie gelas rendang",
+      "desc": "Mie instan khusus anak kosan",
+      "stock": 14,
+      "price": 1500,
+      "id": 2
+    },
+    {
+      "name": "Bakmi mewah",
+      "desc": "Kalau anak kosan hangan macam2 deh",
+      "stock": 80,
+      "price": 10000,
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "name": "Bakmi mewah",
+      "quantity": 2,
+      "price": 20000,
+      "id": 1
+    }
+  ]
+}

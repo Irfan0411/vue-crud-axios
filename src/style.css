@@ -1,0 +1,10 @@
+.row{
+    min-height: 45px;
+    height: max-content;
+}
+.col-2.price{
+    width: 12%;
+}
+.col-2.button{
+    width: max-content;
+}
